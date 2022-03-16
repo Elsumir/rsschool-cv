@@ -1,3 +1,3 @@
 # rsschool-cv
 
-[CV](https://Elsumir.github.io/rsschool-cv/)
+[CV](https://Elsumir.github.io/rsschool-cv/cv)
